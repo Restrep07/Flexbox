@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1f1;
+    height: 15vh;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.navegacion{
+    padding: 10px;
+    height: 71vh;
+    width: 25%;
+    background-color: #cccccc;
+}
+
+.titulo{
+    padding: 10px;
+    margin: 0;
+    width: 50%;
+    height: 71vh;
+    background-color: #aaaaaa;
+}
+
+.columna{
+    padding: 10px;
+    height: 71vh;
+    width: 25%;
+    background-color: #cccccc;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #f1f1f1;
+    height: 100px;
+    align-items: center;
+}

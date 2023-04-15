@@ -1,0 +1,13 @@
+.contenedor{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja{
+    width: 400px;
+    height: 220px;
+    background-color: #dddddd;
+    padding: 10px;
+}

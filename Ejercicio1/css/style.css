@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #b2b2b2;
+    font-family: serif;
+}
+
+.idioma{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.botonEN{
+    background-color: #8b8b8b;
+    padding: 10px;
+    color: white;
+}
+
+.botonEUS{
+    background-color: #8b8b8b;
+    padding: 10px;
+    color: white;
+}

@@ -1,0 +1,117 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    width: 1000px;
+}
+
+.tituloHeader{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fa8071;
+    padding: 0;
+    height: 100px;
+    color: white;
+}
+
+.titulo{
+    margin: 0;
+}
+
+.suptitulo{
+    margin: 0;
+}
+
+nav{
+  background-color: #1bbc9b;  
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.navegacion1{
+    margin-left: 15px;
+}
+
+.navegacion2{
+    margin-right: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin: 7px;
+}
+
+.contenedor1{
+    display: flex;
+    flex-direction: row;
+}
+
+.textos{
+    width: 30%;
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: column;
+}
+
+.Title{
+    margin: 15px;
+}
+
+.Imagenes{
+    width: 90%;
+    height: 230px;
+    margin: 15px 10px ;
+}
+
+.parrafo{
+    margin-left: 15px;
+}
+.contenedor2{
+    width: 70%;
+    margin-left: 15px;
+    text-align: justify;
+}
+
+.Title1{
+    margin: 0;
+    padding: 0;
+}
+
+.imgd{
+    width: 95%;
+    height: 250px;
+}
+
+.texto{
+    width: 95%;
+}
+
+
+hr{
+    margin: 0 35px 20px 0;
+    height: 5px;
+    background-color: #c3c3c3;
+    border: none;
+}
+
+.final{
+    margin: 0;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dddddd;
+    margin: 0 0 0 0;
+    height: 70px;
+}

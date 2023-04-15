@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div{
+    margin: 10px;
+    width: 400px;
+    box-shadow: 10px 20px 50px 0px;
+    border-radius: 20px;
+}
+
+img{
+    border-radius: 20px;
+}
